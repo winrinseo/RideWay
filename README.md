@@ -10,40 +10,40 @@
 ## 1. 커뮤니티 기능
 
 
-![RideWay_-_Chrome_2023-02-16_13-41-28](/uploads/695325e80b0ea919ca14ccd04e7d62f8/RideWay_-_Chrome_2023-02-16_13-41-28.gif)
+![RideWay_-_Chrome_2023-02-16_13-41-28](/uploads/RideWay_-_Chrome_2023-02-16_13-41-28.gif)
 
 
 ## 2. 중고 거래 기능
 
 
-![RideWay_-_Chrome_2023-02-17_11-17-28](/uploads/add024b9b616f64334920d863675ff8f/RideWay_-_Chrome_2023-02-17_11-17-28.gif)
+![RideWay_-_Chrome_2023-02-17_11-17-28](/uploads/RideWay_-_Chrome_2023-02-17_11-17-28.gif)
 
 
 ## 3. 모임 기능
 
 
-![RideWay_-_Chrome_2023-02-17_09-17-02](/uploads/f883ebff420d8d86e992cb7c04a3dab1/RideWay_-_Chrome_2023-02-17_09-17-02.gif)
+![RideWay_-_Chrome_2023-02-17_09-17-02](/uploads/RideWay_-_Chrome_2023-02-17_09-17-02.gif)
 
 
 ## 4. 지도 기능
 
 
-![RideWay_-_Chrome_2023-02-16_13-55-06](/uploads/d16f2c7f35d420596e431669ddaecaa2/RideWay_-_Chrome_2023-02-16_13-55-06.gif)
+![RideWay_-_Chrome_2023-02-16_13-55-06](/uploads/RideWay_-_Chrome_2023-02-16_13-55-06.gif)
 
 
 ## 5. 앱 기능
 
 
 #### 메인화면
-![rn_image_picker_lib_temp_9d40dfc3-1ca3-4b6f-9d9f-2f37fd95f7bf](/uploads/d3ed70127a7aebc30ea97c5cb3bc8e23/rn_image_picker_lib_temp_9d40dfc3-1ca3-4b6f-9d9f-2f37fd95f7bf.gif)
+![rn_image_picker_lib_temp_9d40dfc3-1ca3-4b6f-9d9f-2f37fd95f7bf](/uploads/rn_image_picker_lib_temp_9d40dfc3-1ca3-4b6f-9d9f-2f37fd95f7bf.gif)
 
 
 #### 채팅
-![Image_Pasted_at_2023-2-16_15-26](/uploads/71d265be34cf52d6b5fcf85593306da9/Image_Pasted_at_2023-2-16_15-26.gif)
+![Image_Pasted_at_2023-2-16_15-26](/uploads/Image_Pasted_at_2023-2-16_15-26.gif)
 
 
 #### 지도 및 경로
-![rn_image_picker_lib_temp_c9c8d654-dfbe-4e90-a0db-67b3ece3375e](/uploads/248bacc4582ab0e99fb7ffebbea1f237/rn_image_picker_lib_temp_c9c8d654-dfbe-4e90-a0db-67b3ece3375e.gif)
+![rn_image_picker_lib_temp_c9c8d654-dfbe-4e90-a0db-67b3ece3375e](/uploads/rn_image_picker_lib_temp_c9c8d654-dfbe-4e90-a0db-67b3ece3375e.gif)
 
 
 ### 서비스 전체 기능
@@ -99,7 +99,7 @@
 
 ## 🖥 시스템 아키텍처
 
-![rideway](/uploads/3068ed0f41324c7ca580a98606e3279c/rideway.png)
+![rideway](/uploads/rideway.png)
 
 
 ## 🗂️ 디렉토리 구조
@@ -258,31 +258,31 @@
 ```
 
 ## 💾 ERD 다이어그램
-![ERD](/uploads/a445c70645309ab6e47a9ad79b11c1e1/ERD.png)
+![ERD](/uploads/ERD.png)
 
 
 ## 🧾 요구사항 명세서
-![10](/uploads/77687cd55f9666d161c24fc120e1590a/10.png)
+![10](/uploads/10.png)
 
-![11](/uploads/8b2acd06e1b2686db8dee9d9fcfe58cf/11.png)
+![11](/uploads/11.png)
 
 
 ## 📋 API 연동 명세서
-![1](/uploads/36be114cfa8cedb232131bc1cfa0e38f/1.png)
+![1](/uploads/1.png)
 
-![2](/uploads/ee693244105f01dd3d2408597b312450/2.png)
+![2](/uploads/2.png)
 
-![3](/uploads/6cbd163c50b8c69529c0dfc658881c67/3.png)
+![3](/uploads/3.png)
 
-![4](/uploads/03711a5ffba6eab769e1d8980ff1d76b/4.png)
+![4](/uploads/4.png)
 
-![5](/uploads/5963b8c7efc348476f4223beafc607cb/5.png)
+![5](/uploads/5.png)
 
-![6](/uploads/f320cfdaf1991f92f114914d69a426e5/6.png)
+![6](/uploads/6.png)
 
-![7](/uploads/a47de2a3c88456398369f8c3d1bb4f82/7.png)
+![7](/uploads/7.png)
 
-![8](/uploads/8c9e754252fda11d30381cd27802e6ee/8.png)
+![8](/uploads/8.png)
 
 
 ---
